@@ -22,3 +22,4 @@ The champion team will receive a grand prize of $5,000. The first and the second
 
 ### datasets 
 https://ghassanalregib.info/software-and-datasets
+https://github.com/olivesgatech/CURE-TSD
