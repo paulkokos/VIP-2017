@@ -21,5 +21,5 @@ Any eligible team can participate in the competition, whose detailed guidelines 
 The champion team will receive a grand prize of $5,000. The first and the second runner-up will receive a prize of $2,500 and $1,500, respectively, in addition to travel grants and complimentary conference registrations. Each finalist team invited to ICIP 2017 will receive travel grant supported by the SPS on a reimbursement basis. A team member is offered up to $1,200 for continental travel, or $1,700 for intercontinental travel. A maximum of three members per team will be eligible for travel support.<br/>
 
 ### datasets 
-https://ghassanalregib.info/software-and-datasets
+https://ghassanalregib.info/software-and-datasets <br/>
 https://github.com/olivesgatech/CURE-TSD
